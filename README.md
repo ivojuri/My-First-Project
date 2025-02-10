@@ -1,6 +1,6 @@
-# 🚀 **About my first project on GitHub**
+# 🚀 **About my first project on GitHub: Test all basic writing and formatting syntax and share the outputs below.**
 
-## (1) 📝🔗 [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) 
+## (1) 🔗 [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) 
 ### (a) 🔠 Headings
 > To create a heading, add one to six # symbols before your heading text.
 
@@ -16,7 +16,7 @@
 ### (e) 🎨 Supported color models
 > In issues, pull requests, and discussions, you can call out colors within a sentence by using backticks.
 
-> The visualization of the color is only supported in *issues*, *pull requests*, and *discussions*.
+> The visualization of the color is only supported in `issues`, `pull requests`, and `discussions`.
 
 ### (f) 🔗 Links
 > You can create an inline link words. Example? GIS [ArcGIS Online](https://www.esri.com/en-us/arcgis/products/arcgis-online/overview)
