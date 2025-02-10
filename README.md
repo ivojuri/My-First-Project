@@ -1,6 +1,6 @@
 # 🚀 **About my first project on GitHub**
 
-## (1) 📝 Basic writing and formatting syntax
+## (1) 📝🔗 [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) 
 ### (a) 🔠 Headings
 > To create a heading, add one to six # symbols before your heading text.
 
@@ -21,4 +21,5 @@
 ### (f) 🔗 Links
 > You can create an inline link words. Example? GIS [ArcGIS Online](https://www.esri.com/en-us/arcgis/products/arcgis-online/overview)
 
-## (2) 🔗 Reference: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+
+
