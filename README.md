@@ -1,6 +1,24 @@
-# 🚀 About my first project on GitHub
+# 🚀 **About my first project on GitHub**
 
-## 📝 Basic writing and formatting syntax
-### ✨ Create sophisticated formatting for your prose and code on GitHub with simple syntax.
+## (1) 📝 Basic writing and formatting syntax
+### (a) 🔠 Headings
+> To create a heading, add one to six # symbols before your heading text.
 
-#### 🔠 Headings
+### (b) 🅰️ Styling text
+> You can indicate emphasis with bold, italic, strikethrough, subscript, or superscript text in comment fields and .md files.
+
+### (c) ❝ ❞ Quoting text
+> You can quote text with a '>'.
+
+### (d) 📄 Quoting code
+> You can call out code or a command within a sentence with single backticks `Ctrl`+`E` for Windows.
+
+### (e) 🎨 Supported color models
+> In issues, pull requests, and discussions, you can call out colors within a sentence by using backticks.
+
+> The visualization of the color is only supported in *issues*, *pull requests*, and *discussions*.
+
+### (f) 🔗 Links
+> You can create an inline link words. Example? GIS [ArcGIS Online](https://www.esri.com/en-us/arcgis/products/arcgis-online/overview)
+
+## (2) 🔗 Reference: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
