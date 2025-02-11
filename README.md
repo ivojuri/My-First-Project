@@ -21,5 +21,9 @@
 ### (f) 🔗 Links
 > You can create an inline link words. Example? GIS [ArcGIS Online](https://www.esri.com/en-us/arcgis/products/arcgis-online/overview)
 
+### (g) 🔗 Section links
+## This heading is not unique in the file
+> Link to the first non-unique section: [Link Text](#this-heading-is-not-unique-in-the-file).
+
 
 
