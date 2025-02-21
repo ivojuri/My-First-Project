@@ -43,19 +43,73 @@
 > Reconnecting Magnetic Fields - American Scientist <br/>
 > ![Reconnecting Magnetic Fields - American Scientist](https://www.americanscientist.org/sites/americanscientist.org/files/20097291254327418-2009-09BurchF3.jpg)
 
-### (l)
-### (m)
-### (n)
-### (o)
-### (p)
-### (q)
-### (r)
-### (s)
+### (l) Lists
+> You can make an unordered list by preceding one or more lines of text with `-`, `*`, or `+`.
+- George Washington
+* John Adams
++ Thomas Jefferson <br/>
+1. James Madison
+2. James Monroe
+3. John Quincy Adams
+
+### (m) Nested Lists
+> You can create a nested list by indenting one or more list items below another item.
+1. First list item
+  - First nested list item
+    - Second nested list item
+
+### (n) Task lists
+> To create a task list, preface list items with a hyphen and space followed by `[ ]`. To mark a task as complete, use `[x]`.
+- [x] Task lists learned
+- [ ] https://github.com/octo-org/octo-repo/issues/740
+- [ ] Add delight to the experience when all tasks are complete :tada:
+      
+### (o) Mentioning people and teams
+> You can mention a person or team on GitHub by typing `@` plus their username or team name <br/>
+
+@github/support What do you think about these updates?
+
+### (p) Using emojis
+> You can add emoji to your writing by typing `:EMOJICODE:`, a colon followed by the name of the emoji.<br/>
+
+@octocat :+1: This PR looks great - it's ready to merge! :shipit:
+
+### (q) Footnotes
+> You can add footnotes to your content by using this bracket syntax:
+
+Here is a simple footnote[^1].
+
+A footnote can also have multiple lines[^2].
+
+[^1]: My reference.
+[^2]: To add line breaks within a footnote, prefix new lines with 2 spaces.
+  This is a second line.
+
+### (r) Alerts
+> Alerts are a Markdown extension based on the blockquote syntax that you can use to emphasize critical information.
+
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
+
+> [!TIP]
+> Helpful advice for doing things better or more easily.
+
+> [!IMPORTANT]
+> Key information users need to know to achieve their goal.
+
+> [!WARNING]
+> Urgent info that needs immediate user attention to avoid problems.
+
+> [!CAUTION]
+> Advises about risks or negative outcomes of certain actions.
+
+
+<!--### (s)
 ### (t)
 ### (u)
 ### (v)
 ### (w)
 ### (x)
 ### (y)
-### (z)
+### (z)-->
 
